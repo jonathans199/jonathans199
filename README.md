@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 
 [gmail]: mailto:jonsthewebguy@gmail.com/
 [Linkedin]: https://www.linkedin.com/in/jonathans199/
-[Medium]: https://ankitdeveloper.medium.com/
+[Medium]: https://jonathans199.medium.com/
 [Stackoverflow]: https://stackoverflow.com/users/8698679/jonathan-sanchez
 
 <table>
