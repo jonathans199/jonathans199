@@ -106,7 +106,6 @@ Here are some ideas to get you started:
 ### Some of my Articles 🌱
 - [Publish your React app to FREE Firebase Hosting](https://jonathans199.medium.com/publish-your-react-app-to-free-firebase-hosting-c4aa38b84a5e):
 
-![message here](screenshot.gif)
 
 </td>
 </tr>
