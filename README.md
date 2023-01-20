@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Jonathan header](https://github.com/jonathans199/jstwg.png)](https://jonsthewebguy.com)
+
+
 
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/jonathans199/count.svg" />
