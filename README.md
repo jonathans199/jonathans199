@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 
 [gmail]: mailto:jonsthewebguy@gmail.com/
 [Linkedin]: https://www.linkedin.com/in/jonathans199/
-[Medium]: https://ankitdeveloper.medium.com/
+[Medium]: https://jonathans199.medium.com/
 [Stackoverflow]: https://stackoverflow.com/users/8698679/jonathan-sanchez
 
 <table>
@@ -108,6 +108,7 @@ Here are some ideas to get you started:
 
 ### Some of my Articles 🌱
 - [Publish your React app to FREE Firebase Hosting](https://jonathans199.medium.com/publish-your-react-app-to-free-firebase-hosting-c4aa38b84a5e):
+
 
 </td>
 </tr>
