@@ -1,115 +1,285 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**jonathans199/jonathans199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://jonathansanchez.dev">
+  <img src="./jonathan-sanchez.png" width="1200" alt="Jonathan Sanchez — jonathansanchez.dev" />
+</a>
 
-Here are some ideas to get you started:
+<a href="https://jonathansanchez.dev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=500&color=7AA2F7&center=true&vCenter=true&width=900&lines=Lead+Senior+Software+Engineer;Software+Architect+%C2%B7+11%2B+years+shipping+at+scale;React+Native+%E2%80%A2+Next.js+%E2%80%A2+Node+%E2%80%A2+Rails;AI+%2F+LLM+%E2%80%A2+RAG+%E2%80%A2+LangChain+%E2%80%A2+Bedrock+%2B+Vertex;Mentor+%E2%80%A2+Community+Builder+%E2%80%A2+Drummer+%F0%9F%A5%81" alt="What I do" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![Jonathan header](https://github.com/jonathans199/jstwg.png)](https://jonsthewebguy.com)
-
-
-
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/jonathans199/count.svg" />
+<p>
+  <a href="https://jonathansanchez.dev"><img src="https://img.shields.io/badge/Portfolio-jonathansanchez.dev-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jonathansanchez199/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://jonathans199.medium.com/"><img src="https://img.shields.io/badge/Medium-Read-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@jonsthewebguy"><img src="https://img.shields.io/badge/YouTube-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="mailto:jonathans199@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<!-- ![](https://raw.githubusercontent.com/AnkitDroidGit/AnkitDroidGit/master/dp.png) -->
+</div>
 
-## Hi, I'm Jonathan Sanchez, a Full Stack Software Engineer, with serious experience in web and mobile development. 
+---
 
-### My specialties include...
-- Collaborate and work with teams, putting ego aside
-- Quickly learning new skills and programming languages
-- Problem-solving
-- Responsive design principles
+## 👋 About
 
+I'm **Jonathan Sanchez** — a Lead Senior Software Engineer & Software Architect with **11+ years** building scalable software across **e‑commerce, LMS, ERP, B2B, publishing, hospitality, and aviation**. I lead cross‑functional teams, ship to millions of users, and pair business‑aligned engineering with people‑centered leadership — boosting efficiency **30%+** and reducing costs **25%+** along the way.
 
-### 💻 Most proficient in...
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
- #
-### 🗜 Front-end
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
-#
-### 🗜 Databases
-![MONGO](https://img.shields.io/badge/-MONGODB-333333?style=flat&logo=mongodb)
-![MYSQL](https://img.shields.io/badge/-MYSQL-333333?style=flat&logo=mysql)
-#
+Currently leading **UI & Mobile** engineering at **Cypher Learning**, building the next generation of an LMS platform serving **millions of global users**. Hands‑on **75% IC / 25% lead** across React Native, Next.js, and Ruby on Rails — with deep AWS/GCP cloud experience and a growing AI/LLM practice (RAG, LangChain, Bedrock, Vertex AI).
 
-### 🗜 Backend
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)
+---
 
-![Express](http://img.shields.io/badge/-Expressjs-333333?style=flat&logo=javascript)
+## 📊 Impact at a glance
 
-### 🗜 Mobile
-![React Native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=React&logoColor=61DAFB)
-![iOS](http://img.shields.io/badge/-iOS-333333?style=flat&logo=apple)
-![XCode](https://img.shields.io/badge/-XCode-333333?style=flat&logo=XCode&logoColor=1575F9)
-![Android](http://img.shields.io/badge/-Android-333333?style=flat&logo=android)
-![Android Studio](http://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
+<div align="center">
 
-### 🗜 Cloud
-![AWS](http://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
-![Firebase](http://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+<img src="https://img.shields.io/badge/11%2B-years_shipping-7AA2F7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/45%25-release_cycle_savings-9ECE6A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/60%25-online_sales_lift-E0AF68?style=for-the-badge" />
+<img src="https://img.shields.io/badge/7%2B-mobile_apps_shipped-BB9AF7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/150%2B-engineers_mentored-F7768E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/%245M%2B-platform_valuation-7DCFFF?style=for-the-badge" />
 
+</div>
 
-### 🗜 Other tools
-![Docker](http://img.shields.io/badge/-docker-333333?style=flat&logo=docker)
-![IntelliJ Idea](http://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=jetbrains)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)
-![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
-![Trello](http://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FCC624)
-![MacOS](http://img.shields.io/badge/-Mac%20OS-333333?style=flat&logo=apple)
-![Windows](http://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
+---
 
+## 🚀 Featured Work
 
-### ⏳ Currently working on....
-
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js&logoColor=339933)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathans199&show_icons=true&theme=onedark&line_height=27" alt="AnkitDroidGit github stats" />	
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathans199&layout=compact&theme=onedark&hide=css,html,jupyter+notebook" />	
-
-
-### Let's connect!
-
-
-[<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=flat&logo=gmail&logoColor=white">][gmail] 
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=flat&logo=linkedin&logoColor=white" />][LinkedIn]
-[<img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=flat&logo=Medium&logoColor=white" />][Medium]
-[<img height="30" src="https://img.shields.io/badge/-Stackoverflow-ffffff?style=flat&logo=stackoverflow" />][Stackoverflow]
-<br />
-<hr />
-
-[gmail]: mailto:jonsthewebguy@gmail.com/
-[Linkedin]: https://www.linkedin.com/in/jonathans199/
-[Medium]: https://jonathans199.medium.com/
-[Stackoverflow]: https://stackoverflow.com/users/8698679/jonathan-sanchez
+> Live demos, case studies, and tech breakdowns at **[jonathansanchez.dev](https://jonathansanchez.dev)** →
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
+### 🎓 Cypher Learning · LMS
 
-### Some of my Articles 🌱
-- [Publish your React app to FREE Firebase Hosting](https://jonathans199.medium.com/publish-your-react-app-to-free-firebase-hosting-c4aa38b84a5e):
+Lead UI & Mobile engineering for an LMS SaaS serving **millions of users worldwide**. Re‑architected the React Native release process — **45%+** savings in engineering time and operational costs.
 
+`React Native` `Next.js` `Rails` `AWS` `Azure`
+
+[**View case study →**](https://jonathansanchez.dev)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛋️ City Furniture · E‑commerce + PIM
+
+Akeneo PIM rollout + Next.js storefront. Cut enrichment time **50%**, lifted online sales **60%**, doubled SKU & attribute counts in 12 months.
+
+`Next.js` `TypeScript` `Node.js` `Akeneo` `AWS`
+
+[**View case study →**](https://jonathansanchez.dev)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 USA AG · PIM Platform
+
+Product information management system synchronizing vendor data and mapping product fields for an agricultural supplies marketplace.
+
+`TypeScript` `React` `Tailwind` `tRPC` `Monorepo`
+
+[**View case study →**](https://jonathansanchez.dev)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 USA AG · Commerce
+
+Headless commerce for grow equipment, nutrients, LED lighting & agricultural supplies. Shopify Plus + Rails backend.
+
+`Next.js` `Node.js` `Shopify Plus` `Rails` `React`
+
+[**Visit live →**](https://www.usaag.com/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌿 Hemptemps
+
+Workforce‑management SaaS for the cannabis industry. Cloud‑native, scaled to **$5M+ valuation** as Principal Engineer / CTO.
+
+`TypeScript` `GraphQL` `MongoDB` `GCP Serverless`
+
+[**Visit live →**](https://app.hemptemps.com/)
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Legacy Research · 7+ mobile apps
+
+Took the company from **zero mobile presence** to a revenue‑generating multi‑app portfolio across iOS & Android.
+
+`React Native` `Cordova` `Node.js` `AWS` `Airship`
+
+[**View case study →**](https://jonathansanchez.dev)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 😴 HushNest
+
+Sleep & focus sound mobile app — calm, ambient, cross‑platform with custom audio processing.
+
+`React Native` `Expo` `TypeScript`
+
+[**View case study →**](https://jonathansanchez.dev)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚲 Pedals · iOS marketplace
+
+Buy & sell pre‑owned and refurbished bikes, parts & equipment locally. Live on the App Store.
+
+`React Native` `Node.js` `Firebase`
+
+[**Download on App Store →**](https://apps.apple.com/us/app/pedals-app/id1604093440)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📸 Imagynate
+
+Photo management mobile app featuring geolocation‑based favoriting and personalized album management.
+
+`React Native` `Node.js`
+
+[**View case study →**](https://jonathansanchez.dev)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 More on the portfolio
+
+Bundle IQ (Interim CTO) · ICP Miami eCommerce ($500K → $3M) · Carnival Cruise SharePoint (7,000+ employees) · Boca Code instructor projects.
+
+`Full archive` `Case studies` `Tech writeups`
+
+[**Browse all work →**](https://jonathansanchez.dev)
 
 </td>
 </tr>
 </table>
+
+---
+
+## 🤖 AI / LLM
+
+Building production AI features end‑to‑end — retrieval pipelines, agentic workflows, and model‑agnostic abstractions across providers.
+
+<p>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+</p>
+
+`RAG` `LangChain` `OpenAI · GPT‑4o` `Claude 3.5 Sonnet` `Gemini 1.5 / 3` `Vertex AI Agents` `AWS Bedrock` `PgVector` `Pinecone`
+
+---
+
+## 🛠️ Tech Stack
+
+#### `~/frontend`
+
+<p><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,sass,bootstrap,html,css&theme=dark" /></p>
+
+#### `~/mobile`
+
+<p><img src="https://skillicons.dev/icons?i=react,swift,kotlin,xcode,androidstudio&theme=dark" />
+&nbsp;<code>Expo</code> <code>Fastlane</code> <code>TestFlight</code> <code>Detox</code> <code>Native Modules</code></p>
+
+#### `~/backend`
+
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,ruby,rails,graphql&theme=dark" /></p>
+
+#### `~/databases`
+
+<p><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase&theme=dark" />
+&nbsp;<code>DynamoDB</code> <code>Firestore</code> <code>Pinecone</code></p>
+
+#### `~/aws`
+
+<p><img src="https://skillicons.dev/icons?i=aws&theme=dark" />
+&nbsp;<code>EC2</code> <code>S3</code> <code>Lambda</code> <code>API Gateway</code> <code>CloudFront</code> <code>RDS</code> <code>DynamoDB</code> <code>SNS</code> <code>SQS</code> <code>SES</code> <code>ECS</code> <code>Cognito</code> <code>Bedrock</code> <code>CloudFormation</code> <code>CloudWatch</code> <code>Secrets Manager</code> <code>Route53</code></p>
+
+#### `~/gcp`
+
+<p><img src="https://skillicons.dev/icons?i=gcp&theme=dark" />
+&nbsp;<code>App Engine</code> <code>Cloud Run</code> <code>Cloud Build</code> <code>Cloud SQL</code> <code>Cloud Storage</code> <code>Vertex AI</code> <code>Secret Manager</code></p>
+
+#### `~/devops · ci/cd`
+
+<p><img src="https://skillicons.dev/icons?i=docker,linux,bash,githubactions,gitlab,jenkins,vercel,cloudflare&theme=dark" />
+&nbsp;<code>AWS CodePipeline</code> <code>Cloud Build</code> <code>Serverless</code></p>
+
+#### `~/observability`
+
+<code>DataDog</code> <code>Sentry</code> <code>New Relic</code> <code>ELK</code> <code>Elasticsearch</code> <code>Kibana</code> <code>LogStash</code>
+
+#### `~/testing`
+
+<p><img src="https://skillicons.dev/icons?i=jest&theme=dark" />
+&nbsp;<code>Playwright</code> <code>React Testing Library</code> <code>Mocha/Chai</code> <code>Detox</code></p>
+
+---
+
+## 🎤 Community & Speaking
+
+- 🎙️ **Founder** — [Syntax Summit](https://jonathansanchez.dev), South Florida SWE meetup
+- 🤝 **Founder** — DevDive Peer Group, South Florida Tech Hub
+- 🏆 **Hackathon Judge & Co‑organizer** — South Florida Tech Hub
+- 🎤 **Speaker** — DevCon
+- 🧑‍🤝‍🧑 **Co‑organizer** — FloridaJS
+- 🧑‍🏫 **Senior Instructor** — Boca Code (mentored **150+ engineers** across 12 cohorts; 275% enrollment growth)
+- ⛪ **Volunteer Engineer** — Christ Fellowship · Calvary Chapel
+
+---
+
+## ✍️ Latest from the blog
+
+<!-- BLOG-POST-LIST:START -->
+
+- [Publish your React app to FREE Firebase Hosting](https://jonathans199.medium.com/publish-your-react-app-to-free-firebase-hosting-c4aa38b84a5e)
+<!-- BLOG-POST-LIST:END -->
+
+> Auto‑updated daily from [Medium](https://jonathans199.medium.com/) via GitHub Actions.
+
+---
+
+## 🌴 Outside of work
+
+When I'm not shipping code, you can find me:
+
+🥁 Drumming for a **Duran Duran tribute band** &nbsp;·&nbsp; 🏐 Volleyball dad &nbsp;·&nbsp; 🪚 Woodworking &nbsp;·&nbsp; 🐶 Hanging with **Cielo** (my Maltese) &nbsp;·&nbsp; 🍽️ Restaurant co‑owner &nbsp;·&nbsp; 🇧🇷 Learning Portuguese
+
+---
+
+## 📫 Let's connect
+
+<div align="center">
+
+<a href="https://jonathansanchez.dev"><img src="https://img.shields.io/badge/Portfolio-jonathansanchez.dev-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jonathansanchez199/"><img src="https://img.shields.io/badge/LinkedIn-jonathansanchez199-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/jonathans199"><img src="https://img.shields.io/badge/GitHub-jonathans199-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://jonathans199.medium.com/"><img src="https://img.shields.io/badge/Medium-@jonathans199-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://www.youtube.com/@jonsthewebguy"><img src="https://img.shields.io/badge/YouTube-@jonsthewebguy-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://stackoverflow.com/users/8698679/jonathan-sanchez"><img src="https://img.shields.io/badge/StackOverflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+<a href="mailto:jonathans199@gmail.com"><img src="https://img.shields.io/badge/Email-jonathans199@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+<div align="center">
+<sub>Open to staff‑level engineering, architecture, and fractional CTO conversations. Reach out — I respond fast.</sub>
+</div>
