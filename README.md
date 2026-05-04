@@ -247,14 +247,31 @@ Building production AI features end‑to‑end — retrieval pipelines, agentic 
 
 ---
 
-## ✍️ Latest from the blog
+## ✍️ From the blog
 
-<!-- BLOG-POST-LIST:START -->
+In‑depth tutorials and engineering writeups — full archive at **[jonathansanchez.dev/blog](https://jonathansanchez.dev/blog)**.
 
-- [Publish your React app to FREE Firebase Hosting](https://jonathans199.medium.com/publish-your-react-app-to-free-firebase-hosting-c4aa38b84a5e)
-<!-- BLOG-POST-LIST:END -->
+#### 2026
+- 🎬 [Building a Swift Package to Burn Live Scoreboards into Recorded Sports Video](https://jonathansanchez.dev/blog/building-swift-video-score-overlay-package) — <sub>Apr 4, 2026</sub>
+- 📦 [WebView Doesn't Cache for Offline — So I Built a Swift Module and a Native Patch to Fix It](https://jonathansanchez.dev/blog/webview-offline-caching-swift-package) — <sub>Apr 3, 2026</sub>
 
-> Auto‑updated daily from [Medium](https://jonathans199.medium.com/) via GitHub Actions.
+#### 2024
+- 🚀 [How to Deploy a Node Express API to AWS EC2 Amazon Linux 2](https://jonathansanchez.dev/blog/deploy-node-express-api-aws-ec2-amazon-linux-2) — <sub>Sep 4, 2024</sub>
+
+#### 2023
+- 🟦 [How to Create a Simple Node API with TypeScript](https://jonathansanchez.dev/blog/create-simple-node-api-with-typescript) — <sub>Jul 17, 2023</sub>
+
+#### 2022
+- 🔒 [How to Apply SSL for HTTPS on a WebApp Hosted in AWS S3 Bucket](https://jonathansanchez.dev/blog/apply-ssl-https-webapp-aws-s3-bucket) — <sub>Dec 13, 2022</sub>
+- 🪪 [How to Use JWT in Node.js Express API with Password Hashing & MongoDB](https://jonathansanchez.dev/blog/jwt-nodejs-express-api-password-hashing-mongodb) — <sub>Oct 18, 2022</sub>
+- 🔐 [How to Apply SSL for HTTPS to Node Express API in AWS EC2](https://jonathansanchez.dev/blog/apply-ssl-https-node-express-api-aws-ec2) — <sub>Sep 19, 2022</sub>
+- ⛅ [How to Deploy Node Express API to Heroku](https://jonathansanchez.dev/blog/deploy-node-express-api-heroku) — <sub>Aug 8, 2022</sub>
+- ▲ [How to Deploy Node Express API to Vercel Serverless Functions](https://jonathansanchez.dev/blog/deploy-node-express-api-vercel-serverless) — <sub>Jul 7, 2022</sub>
+
+#### 2021
+- 🐧 [How to Deploy Node Express API to an AWS EC2 Ubuntu Instance](https://jonathansanchez.dev/blog/deploy-node-express-api-aws-ec2-ubuntu) — <sub>Aug 12, 2021</sub>
+- 🔥 [Publish Your React App to FREE Firebase Hosting](https://jonathansanchez.dev/blog/publish-react-app-firebase-hosting) — <sub>Jul 20, 2021</sub>
+- 🔑 [How to Hash Password in React App Before Sending it to the API](https://jonathansanchez.dev/blog/hash-password-react-app-before-sending-api) — <sub>Jun 14, 2021</sub>
 
 ---
 
